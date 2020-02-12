@@ -13,6 +13,7 @@ ___   ______________________    (___)
 kind  url you copied from       action
 
 origin	https://github.com/saintmedusa/git-clone-practice.git (fetch)
+
 origin	https://github.com/saintmedusa/git-clone-practice.git (push)
 
 ## <git add>
